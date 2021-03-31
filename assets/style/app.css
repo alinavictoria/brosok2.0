@@ -549,7 +549,7 @@ body.black {
   right: 0px;
   width: 129px;
   height: 61px;
-  background-image: url("/assets/images/logo.svg");
+  background-image: url("../../assets/images/logo.svg");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -569,7 +569,7 @@ body.black {
   height: 57px;
   top: 15%;
   right: 30%;
-  background-image: url("/assets/images/moon.svg");
+  background-image: url("../../assets/images/moon.svg");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -603,7 +603,7 @@ body.black {
   height: 108px;
   top: 10%;
   right: 35%;
-  background-image: url("/assets/images/sun.svg");
+  background-image: url("../../assets/images/sun.svg");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -866,7 +866,7 @@ body.black {
   left: 32px;
   width: 40px;
   height: 29px;
-  background-image: url("/assets/images/i-s01b.svg");
+  background-image: url("../../assets/images/i-s01b.svg");
 }
 
 @media (max-width: 767px) {
@@ -900,7 +900,7 @@ body.black {
   left: 32px;
   width: 40px;
   height: 29px;
-  background-image: url("/assets/images/i-s02b.svg");
+  background-image: url("../../assets/images/i-s02b.svg");
 }
 
 @media (max-width: 767px) {
@@ -932,7 +932,7 @@ body.black {
   left: 32px;
   width: 40px;
   height: 29px;
-  background-image: url("/assets/images/i-s03b.svg");
+  background-image: url("../../assets/images/i-s03b.svg");
 }
 
 @media (max-width: 767px) {
@@ -989,7 +989,7 @@ body.black {
   right: 32px;
   width: 42px;
   height: 42px;
-  background-image: url("/assets/images/i-s05b.svg");
+  background-image: url("../../assets/images/i-s05b.svg");
 }
 
 @media (max-width: 767px) {
@@ -1022,7 +1022,7 @@ body.black {
   right: 32px;
   width: 42px;
   height: 42px;
-  background-image: url("/assets/images/i-s04b.svg");
+  background-image: url("../../assets/images/i-s04b.svg");
 }
 
 @media (max-width: 767px) {
@@ -1341,27 +1341,27 @@ body.black {
 }
 
 .main .control-container .rows .wrapper .images .i.i-1 {
-  background-image: url("/assets/images/i-1.svg");
+  background-image: url("../../assets/images/i-1.svg");
 }
 
 .main .control-container .rows .wrapper .images .i.i-2 {
-  background-image: url("/assets/images/i-2.svg");
+  background-image: url("../../assets/images/i-2.svg");
 }
 
 .main .control-container .rows .wrapper .images .i.i-3 {
-  background-image: url("/assets/images/i-3.svg");
+  background-image: url("../../assets/images/i-3.svg");
 }
 
 .main .control-container .rows .wrapper .images .i.i-4 {
-  background-image: url("/assets/images/i-4.svg");
+  background-image: url("../../assets/images/i-4.svg");
 }
 
 .main .control-container .rows .wrapper .images .i.i-5 {
-  background-image: url("/assets/images/i-5.svg");
+  background-image: url("../../assets/images/i-5.svg");
 }
 
 .main .control-container .rows .wrapper .images .i.i-6 {
-  background-image: url("/assets/images/i-6.svg");
+  background-image: url("../../assets/images/i-6.svg");
 }
 
 .main .control-container .rows .wrapper .colors {
@@ -1778,23 +1778,23 @@ body.black {
 }
 
 .main .control-container.black .rows .wrapper .sliders .slider .icon.i-s01 {
-  background-image: url("/assets/images/i-s01.svg");
+  background-image: url("../../assets/images/i-s01.svg");
 }
 
 .main .control-container.black .rows .wrapper .sliders .slider .icon.i-s02 {
-  background-image: url("/assets/images/i-s02.svg");
+  background-image: url("../../assets/images/i-s02.svg");
 }
 
 .main .control-container.black .rows .wrapper .sliders .slider .icon.i-s03 {
-  background-image: url("/assets/images/i-s03.svg");
+  background-image: url("../../assets/images/i-s03.svg");
 }
 
 .main .control-container.black .rows .wrapper .sliders .slider .icon.i-s04 {
-  background-image: url("/assets/images/i-s04.svg");
+  background-image: url("../../assets/images/i-s04.svg");
 }
 
 .main .control-container.black .rows .wrapper .sliders .slider .icon.i-s05 {
-  background-image: url("/assets/images/i-s05.svg");
+  background-image: url("../../assets/images/i-s05.svg");
 }
 
 .main .control-container.black .rows .wrapper .sliders .slider .slider-container {
@@ -2027,7 +2027,7 @@ body.black {
 }
 
 .strs.s-1 {
-  background-image: url("/assets/images/s-01.svg");
+  background-image: url("../../assets/images/s-01.svg");
 }
 
 @media (max-width: 767px) {
@@ -2094,7 +2094,7 @@ body.black {
 }
 
 .strs.s-2 {
-  background-image: url("/assets/images/s-02.svg");
+  background-image: url("../../assets/images/s-02.svg");
 }
 
 @media (max-width: 767px) {
@@ -2161,7 +2161,7 @@ body.black {
 }
 
 .strs.s-3 {
-  background-image: url("/assets/images/s-03.svg");
+  background-image: url("../../assets/images/s-03.svg");
 }
 
 @media (max-width: 767px) {
@@ -2228,7 +2228,7 @@ body.black {
 }
 
 .strs.s-4 {
-  background-image: url("/assets/images/s-04.svg");
+  background-image: url("../../assets/images/s-04.svg");
 }
 
 @media (max-width: 767px) {
@@ -2295,7 +2295,7 @@ body.black {
 }
 
 .strs.s-5 {
-  background-image: url("/assets/images/s-05.svg");
+  background-image: url("../../assets/images/s-05.svg");
 }
 
 @media (max-width: 767px) {
