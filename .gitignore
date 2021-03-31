@@ -1,0 +1,12 @@
+# Ignore bundler config.
+.idea
+.idea/*
+.DS_Store
+
+/node_modules
+/bower_components
+/src/vendor
+/npm-debug.log
+/mockups
+/build
+/partials
